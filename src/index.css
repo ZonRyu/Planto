@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.head {
+    height: 100%;
+    background-image: url('./assets/images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
